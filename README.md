@@ -10,7 +10,7 @@ https://github.com/users/GioGardinali/projects/4/views/1
 <br><br>
 
 <div align="center" style="display:inline_block"><br/>
-    <img align="center" high="30%" alt="gnl" src="https://github.com/GioGardinali/gnl-vila_git_force/blob/main/ce7f7249-85d2-4938-8210-33922db6302e.png"/>
+    <img align="center" high="30%" alt="ft_printf" src="https://github.com/GioGardinali/ftprintf_vila_git_force/blob/main/e60b2f07-e681-491a-907a-17e8a3d4ece9.png"/>
 </div>
 
 <hr>
@@ -19,6 +19,15 @@ https://github.com/users/GioGardinali/projects/4/views/1
 O Board é dessa forma como mostrado abaixo:
 <div align="center" style="display:inline_block"><br/>
     <img align="center" high="50%" alt="board" src="https://github.com/GioGardinali/gnl-vila_git_force/blob/main/f4d5a62f-dd9b-4f51-bf1b-2db61f989e7f.png"/>
+
+Temos as seguintes TASKs:
+<ul>
+    <li>Makefile</li>
+    <li>Arquivo ft_printf.c</li>
+    <li>Headers</li>
+    <li>Sources auxiliares *.c</li>
+    <li>Bônus.</li>
+</ul>
 </div>
 
 <br><br>
