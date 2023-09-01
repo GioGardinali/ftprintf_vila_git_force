@@ -19,7 +19,8 @@ https://github.com/users/GioGardinali/projects/4/views/1
 O Board é dessa forma como mostrado abaixo:
 <div align="center" style="display:inline_block"><br/>
     <img align="center" high="50%" alt="board" src="https://github.com/GioGardinali/ftprintf_vila_git_force/blob/main/1612f473-ec9b-450c-9658-8135fc5cf896.png"/>
-
+</div>
+<div align = "left" >
 Temos as seguintes TASKs:
 <ul>
     <li>Leitura do PDF do projeto</li>
@@ -30,7 +31,6 @@ Temos as seguintes TASKs:
     <li>Bônus.</li>
 </ul>
 </div>
-
 <br><br>
 Caso tenha algum problema, me avise ;)
 
