@@ -20,6 +20,7 @@ O Board é dessa forma como mostrado abaixo:
 <div align="center" style="display:inline_block"><br/>
     <img align="center" high="50%" alt="board" src="https://github.com/GioGardinali/ftprintf_vila_git_force/blob/main/1612f473-ec9b-450c-9658-8135fc5cf896.png"/>
 </div>
+<br>
 <div align = "left" >
 Temos as seguintes TASKs:
 <ul>
