@@ -22,7 +22,7 @@ O Board é dessa forma como mostrado abaixo:
 </div>
 <br>
 <div align = "left" >
-Temos as seguintes TASKs:
+<p>Temos as seguintes TASKs:</p>
 <ul>
     <li>Leitura do PDF do projeto</li>
     <li>Makefile</li>
